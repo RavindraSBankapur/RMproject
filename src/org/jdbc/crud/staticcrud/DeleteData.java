@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+//making chages in code and should be updated in repository
 public class DeleteData {
 
 	public static void main(String[] args) {
